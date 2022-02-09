@@ -1,13 +1,33 @@
-# Projec_1Final
+Instagram Web Application
 
+Project Description:				
+	
+		A Social Media Web Application Which allows users to interact each others.
+		
+Technnologies Used:
+	
+		Html
+		Css
+		Javascript
+		Servlet
+		Hibernate
+		
+Features
+	
+		Sign Up
+		Sign In
+		View Profile
+		Edit Profile
+		Delete Profile
+		ViewAll Profile
+		Search Profile
+		Log Out
+		
+Getting Started
 
-Title:Instagram Web Application
-
-Functionalities:Sign Up,Sign In,View,Edit,Delete,ViewAll,Search,Log Out.
-
-Technologies:Eclipse,Maven.
-
-Challenges and future Work:Initially Tried using Fetch API but Failed so i not used it...so future work is to enhance this project using Fetch APi and to perform Validation.
-
-
+		git clone https://github.com/Manoj-T529/Projec_1Final/tree/master/instagramweb
+	
+Contributor
+		
+		Manoj T
 
