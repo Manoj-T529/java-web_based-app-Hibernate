@@ -25,7 +25,7 @@ Features
 		
 Getting Started
 
-		git clone https://github.com/Manoj-T529/Projec_1Final/tree/master/instagramweb
+		git clone https://github.com/Manoj-T529/Projec_1Final
 	
 Contributor
 		
