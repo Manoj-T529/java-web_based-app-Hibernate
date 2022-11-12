@@ -4,7 +4,7 @@
 	
 A Social Media Web Application Which allows users to interact each others.
 		
-## Technnologies Used:
+## Technologies Used:
 	
 * Html
 * Css
