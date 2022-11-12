@@ -2,11 +2,11 @@
 
 ## Project Description:				
 	
-	A Social Media Web Application Which allows users to interact each others.
+A Social Media Web Application Which allows users to interact each others.
 		
 ## Technnologies Used:
 	
-	* Html
+* Html
 	* Css
 	* Javascript
 	* Servlet
