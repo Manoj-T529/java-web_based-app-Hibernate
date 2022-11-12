@@ -1,33 +1,33 @@
-Instagram Web Application
+# Instagram Web Application
 
-Project Description:				
+## Project Description:				
 	
-		A Social Media Web Application Which allows users to interact each others.
+	A Social Media Web Application Which allows users to interact each others.
 		
-Technnologies Used:
+## Technnologies Used:
 	
-		Html
-		Css
-		Javascript
-		Servlet
-		Hibernate
+	* Html
+	* Css
+	* Javascript
+	* Servlet
+	* Hibernate
 		
-Features
+## Features
 	
-		Sign Up
-		Sign In
-		View Profile
-		Edit Profile
-		Delete Profile
-		ViewAll Profile
-		Search Profile
-		Log Out
+	* Sign Up
+	* Sign In
+	* View Profile
+	* Edit Profile
+	* Delete Profile
+	* ViewAll Profile
+	* Search Profile
+	* Log Out
 		
-Getting Started
+## Getting Started
 
-		git clone https://github.com/Manoj-T529/Projec_1Final
+	* git clone https://github.com/Manoj-T529/Projec_1Final
 	
-Contributor
+## Contributor
 		
-		Manoj T
+	* Manoj T
 
